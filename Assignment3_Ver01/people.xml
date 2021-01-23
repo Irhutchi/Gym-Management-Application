@@ -1,0 +1,14 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>Joe M</name>
+      <email>joe.dolan@gmail.com</email>
+      <address>Cork</address>
+      <gender>female</gender>
+      <height>1.8</height>
+      <startWeight>80.0</startWeight>
+      <chosenPackage>1</chosenPackage>
+    </Member>
+  </list>
+  <list/>
+</object-stream>
