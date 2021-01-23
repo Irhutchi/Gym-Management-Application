@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <name>Trainer</name>
+      <email>Trainer.comn</email>
+      <address>abc street</address>
+      <gender>f</gender>
+      <speciality>Endurance</speciality>
+      <assessments/>
+    </Trainer>
+  </list>
+</object-stream>
