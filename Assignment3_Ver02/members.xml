@@ -1,0 +1,13 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>Joe</name>
+      <email>Joe.blogss@email.com</email>
+      <address>Cork</address>
+      <gender>M</gender>
+      <height>1.6</height>
+      <startWeight>80.0</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+    </Member>
+  </list>
+</object-stream>

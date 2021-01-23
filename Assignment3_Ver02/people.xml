@@ -1,0 +1,22 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>Jerry J</name>
+      <email>Jerry.john@gmail.com</email>
+      <address>Cork Rd, Waterford</address>
+      <gender>Male</gender>
+      <height>1.5</height>
+      <startWeight>78.0</startWeight>
+      <chosenPackage>1</chosenPackage>
+    </Member>
+    <Member>
+      <name>d</name>
+      <email>gcn</email>
+      <address>ajn</address>
+      <gender>F</gender>
+      <height>2.0</height>
+      <startWeight>60.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+    </Member>
+  </list>
+</object-stream>
