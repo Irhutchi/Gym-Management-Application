@@ -1,0 +1,31 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>Joe</name>
+      <email>Joe.blogss@email.com</email>
+      <address>kilkenny</address>
+      <gender>M</gender>
+      <height>1.8</height>
+      <startWeight>91.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+    </Member>
+    <Member>
+      <name>Rej</name>
+      <email>Rej.Jacob.com</email>
+      <address>Carlow</address>
+      <gender>M</gender>
+      <height>1.65</height>
+      <startWeight>78.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+    </Member>
+    <Member>
+      <name>abc</name>
+      <email>abc</email>
+      <address>abc</address>
+      <gender>M</gender>
+      <height>1.5</height>
+      <startWeight>54.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+    </Member>
+  </list>
+</object-stream>
