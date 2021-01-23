@@ -1,6 +1,5 @@
 # Gym-Management-Application
-A repository created to store files associated console-based Gym Management application that demonstrates CRUD functionality.
-IntelliJ IDE used to develope application.
+A repository created to store files associated console-based Gym Management application. A menu driven app with CRUD functionality developed using IntelliJ IDE. All written in Java.
 
 ## Description
 
