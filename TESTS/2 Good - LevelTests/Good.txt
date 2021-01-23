@@ -1,0 +1,8 @@
+Good Level Test:
+
+We don't unit test the file system. But an acceptance test would be performed to ensure that we can: 
+
+create members
+write to XML
+restart
+read from XML

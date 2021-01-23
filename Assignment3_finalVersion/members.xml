@@ -1,0 +1,51 @@
+<object-stream>
+  <list>
+    <StudentMember>
+      <name>jhf</name>
+      <email>jhfd</email>
+      <address>bbb</address>
+      <gender>M</gender>
+      <height>1.5</height>
+      <startWeight>56.0</startWeight>
+      <chosenPackage>WIT</chosenPackage>
+      <studentId>17646</studentId>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <PremiumMember>
+      <name>memberabc</name>
+      <email>memberabc</email>
+      <address>Street 123</address>
+      <gender>F</gender>
+      <height>1.8</height>
+      <startWeight>72.0</startWeight>
+      <chosenPackage>Package 1</chosenPackage>
+    </PremiumMember>
+    <Member>
+      <name>member1</name>
+      <email>member1</email>
+      <address>abc</address>
+      <gender>M</gender>
+      <height>1.3</height>
+      <startWeight>67.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+    </Member>
+    <Member>
+      <name>member123</name>
+      <email>member123</email>
+      <address>Barrack Street</address>
+      <gender>M</gender>
+      <height>1.67</height>
+      <startWeight>64.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+    </Member>
+    <Member>
+      <name>abc123</name>
+      <email>abc123</email>
+      <address>the oaks</address>
+      <gender>F</gender>
+      <height>1.3</height>
+      <startWeight>80.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+    </Member>
+  </list>
+</object-stream>

@@ -1,0 +1,36 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <name>trainer</name>
+      <email>trainer123</email>
+      <address>waterford</address>
+      <gender>F</gender>
+      <speciality>Weight loss</speciality>
+      <assessments/>
+    </Trainer>
+    <Trainer>
+      <name></name>
+      <email></email>
+      <address></address>
+      <gender>Unspecified</gender>
+      <speciality></speciality>
+      <assessments/>
+    </Trainer>
+    <Trainer>
+      <name></name>
+      <email>g</email>
+      <address>gev</address>
+      <gender>Unspecified</gender>
+      <speciality>vs</speciality>
+      <assessments/>
+    </Trainer>
+    <Trainer>
+      <name>gr</name>
+      <email>gre</email>
+      <address>ge</address>
+      <gender>Unspecified</gender>
+      <speciality>eg</speciality>
+      <assessments/>
+    </Trainer>
+  </list>
+</object-stream>
