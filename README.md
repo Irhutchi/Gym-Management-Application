@@ -1,5 +1,5 @@
 # Gym-Management-Application
-A repository created to store files associated console-based Gym Management application. A menu driven app with CRUD functionality developed using IntelliJ IDE. All written in Java.
+A repository created to store files associated console-based Gym Management application. A menu driven app with CRUD functionality developed using IntelliJ IDE. Written in Java.
 
 ## Description
 
@@ -55,8 +55,8 @@ The following processing is required in this *menu system*:
 
 1. On app start-up, gym data loads automatically (trainers and members) from an XML file.
 2. User is prompted to login(l) or register (r).
-3. User is ask to if they are a member(m) or a trainer(t). <br>
-  * If the user selected to register, ask them to enter the required details for the member/trainer. If they enter an email that is already used in the system (for either trainers/members), 
+3. User is prompted to state their affiliation: member(m) or a trainer(t). <br>
+  * If the user decides to register, ask them to enter the required details for the member/trainer. If they enter an email that is already used in the system (for either trainers/members), 
   print out "invalid email" and ask them to enter a new one.<br>
   * If the user selects login, verify that the email entered is stored in the appropriate arraylist i.e. the members or trainers list. If the email doesn’t exist, print out “access denied” to the console and exit the program.<br>
 4. Once logged in,the appropriate menu is displayes (trainer or member).
