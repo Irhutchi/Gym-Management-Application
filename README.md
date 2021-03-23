@@ -62,8 +62,8 @@ The following processing is required in this *menu system*:
 4. Once logged in,the appropriate menu is displayes (trainer or member).
 
 ### Unit Tests
-A full suite of unit test will are provided (WIT) to prove the entire API and utility classes. 
-Unit tests were not developed by the author as part of this project but provided to run tests and fix any logic errors it reports in the code.
+A full suite of unit tests are provided by (WIT) to test the entire API and utility classes. 
+Unit tests were not developed by the author as part of this project but provided to run tests and help with debugging any logic errors it reports in the code.
 
 ## Author
 
